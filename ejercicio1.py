@@ -39,7 +39,7 @@ def state_3():
     GPIO.output(led_pins[1], GPIO.HIGH)
 
 def state_4():
-    """State 4: This state turn
+    State 4: This state turn
     GPIO.output(led_pins[0], GPIO.LOW)
     GPIO.output(led_pins[1], GPIO.LOW)
 
